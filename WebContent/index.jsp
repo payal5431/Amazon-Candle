@@ -7,6 +7,7 @@
 <title>Amazon Demo</title>
 </head>
 <body>
+<a href="demojenkins.jsp">click</a><br><br>
 <div>
 <a href="PreLoginServlet">Login</a>
  <a href="PreRegisterServlet">Register</a>
@@ -16,5 +17,6 @@
 <img src="images/Screenshot (10).png"/>
 <img src="images/Screenshot (11).png"/>
 <img>
+
 </body>
 </html>
